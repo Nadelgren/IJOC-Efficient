@@ -3,7 +3,7 @@ Gupte, authors of the paper, "Efficient storage of Pareto points in biobjective 
 published in "INFORMS Journal on Computing" in 2017.
 
 Unless otherwise stated, all files are authored by Nathan Adelgren of Edinboro University 
-(nadelgren@edinboro.edu) and are provided 
+(nadelgren@edinboro.edu).
 
 
 This program is free software: you can redistribute it and/or modify
