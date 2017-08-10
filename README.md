@@ -1,1 +1,0 @@
-# IJOC-Efficient
